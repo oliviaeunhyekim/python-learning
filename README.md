@@ -1,17 +1,9 @@
-# Python learning journey
+# Python Learning Journey
 
 <details>
-<summary>Elements of Python</summary>
+<summary>Module 1 Why We Program?</summary>
 
-* Programming consists of multiple instructions given to the computational devices to follow 
-
-## Three Components in Python
-|   Component      |            Description            |
-|-----------------:|-----------------------------------|
-| Vocabulary/ words|         variables & reserved words|
-|Sentence structure|              valid syntax patterns|
-|   Story structure|constructing a proram for a purpose|
-
+* notes for [Module 1 doc](https://docs.google.com/document/d/1FPjueLBBI-ntK6N7VsxEPJPR891kmLdzVn_EvmbLKB8/edit?usp=sharing)
 
 </details>
 
